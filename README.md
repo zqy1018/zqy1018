@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zqy1018/zqy1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# zqy1018
+
+A beginner.
+
+Good at: Failing, messing around, loafing on the job, making trivial projects.
+
+## Trivial Projects
+
+To be updated ...
