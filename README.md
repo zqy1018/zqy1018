@@ -19,17 +19,13 @@ A beginner.
 
 一个萌新。
 
-Good at: Failing, messing around, loafing on the job, making trivial projects.
-
-擅长失败、摸鱼、丢人。
-
 ## Trivial Projects
 
 - [my_leetcode](https://github.com/zqy1018/my_leetcode)
 
   Personal Leetcode problem set.
   
-  个人 Leetcode 摸鱼合集。又打不动别的 OJ，只能没事玩玩这个。现在这个也刷不动了（悲）。
+  个人 Leetcode 摸鱼合集。
   
 - To be updated ...
 
