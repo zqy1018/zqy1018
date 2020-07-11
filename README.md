@@ -21,12 +21,5 @@ A beginner.
 
 ## Trivial Projects
 
-- [my_leetcode](https://github.com/zqy1018/my_leetcode)
-
-  Personal Leetcode problem set.
-  
-  个人 Leetcode 摸鱼合集。
-  
-- To be updated ...
-
-  等待更新 ...
+- [my_leetcode](https://github.com/zqy1018/my_leetcode): Personal Leetcode problem set. 个人 Leetcode 摸鱼合集。
+- To be updated ... 等待更新 ...
