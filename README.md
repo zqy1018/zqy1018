@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A beginner.
 
-一个萌新。
+一个萌新。热爱摸鱼。
 
 ## Trivial Projects
 
